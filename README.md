@@ -1,4 +1,7 @@
-## Hi there, I'm Saera 👋
+## 🍥┳┻┇ /)/)
+## 🍥┻┳┇„• ᴗ •„) ๑՞HI THERE₊𖤐
+## 🍥┳┻┇ ⊂ﾉ       I'm Saera
+## 🍥┻┳┇
 
 <p align="center">
   <a href="https://github.com/saeraismy">
