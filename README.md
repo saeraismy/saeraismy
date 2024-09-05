@@ -1,7 +1,5 @@
 ## Hi there, I'm Saera 👋
 
-I love to work on exciting projects and improve my coding skills. Here's a glimpse of my GitHub stats and the languages I use:
-
 <p align="center">
   <a href="https://github.com/saeraismy">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saeraismy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
