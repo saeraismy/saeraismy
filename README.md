@@ -1,6 +1,6 @@
  ## 🍥┳┻┇ /)/)
  ## 🍥┻┳┇„• ᴗ •„) ๑՞HI THERE₊☆
- ## 🍥┳┻┇ ⊂ﾉ    Welcome to my github profile ⚞>ܫ<⚟
+ ## 🍥┳┻┇ ⊂ﾉ    Welcome to my github profile
  ## 🍥┻┳┇
 
 <p align="center">
