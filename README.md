@@ -20,7 +20,7 @@
 </p>
 
 ### 🪷 I'm currently learning:
-- Flutter untuk membangun aplikasi berbasis android📱
+- Flutter android📱
 
 ### 🩷 How to reach me:
 - **LinkedIn:** [Saera](https://linkedin.com/in/nursaera-ismy-pradandi)
